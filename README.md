@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">🤩 My name is BOMEN 🏠 from Thailand, Bangkok 🇹🇭🏴‍☠️</h1>
+<h1 align="left">🤩 My name is BOMEN 🏠 from Thailand, Bangkok</h1>
 
 ###
 
